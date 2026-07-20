@@ -51,3 +51,8 @@ Atliq Mart operates across Surat, Ahmedabad, and Vadodara, with plans to expand 
 ![Detailed Insights](Detailed%20Insights.png)
 ##### Delay Analysis Page
 ![Delay Analysis](Delay%20Analysis.png)# AtliQ-Mart-Supply-Chain-Analytics
+
+
+## 🔗 Live Interactive Dashboard
+Experience the fully interactive Power BI report with live slicers, drill-downs, and dynamic SLA metrics:
+👉 **[https://app.powerbi.com/view?r=eyJrIjoiZTM5NzM1MDYtY2RkOC00ZWFmLWEyYjYtNzgwM2YxYzU4YmJjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**
