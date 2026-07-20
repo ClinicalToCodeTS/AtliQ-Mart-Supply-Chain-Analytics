@@ -12,7 +12,7 @@ This interactive Power BI dashboard provides executive management with a 360-deg
 * **UI/UX Design:** Custom page-navigation action buttons, interactive slicers, red conditional formatting, and neutral corporate KPI card styling
 ---
 ## 📊 Data Source
-* **Origin:** Operational transactional datasets provided by Atliq Mart (Codebasics Supply Chain Challenge C2).
+* **Origin:** Operational transactional datasets provided by Atliq Mart (Codebasics Supply Chain Challenge ).
 * **Dataset Scale:** 
   * `fact_orders_aggregate` (31,729 unique order records).
   * `fact_order_lines` (57,096 line-item records across 1.34 Cr total ordered quantity).
