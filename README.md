@@ -5,7 +5,7 @@ This interactive Power BI dashboard provides executive management with a 360-deg
 ---
 ## 🛠️ Tech Stack
 * **Data Staging & Validation:** Microsoft Excel (`.xlsx`)
-* **Business Intelligence Tool:** Power BI Desktop
+* **Business Intelligence Tool:** Power BI 
 * **Data Transformation & ETL:** Power Query (Data cleaning)
 * **Data Modeling:** Star Schema with a double-fact table layout (`fact_orders_aggregate` & `fact_order_lines`)
 * **Calculations & Advanced Logic:** DAX (Data Analysis Expressions) for volume-weighted target aggregation (`SUMX` + `SUMMARIZE`) 
